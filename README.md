@@ -13,4 +13,5 @@ TypeScript最速の入門書[基礎 編]<br>
 https://www.amazon.co.jp/dp/B091N6X68G/
 
 ## udemy
+超TypeScript入門 完全パック(2021)
 https://www.udemy.com/course/typescript-complete/
