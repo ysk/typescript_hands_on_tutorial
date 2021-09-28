@@ -6,9 +6,6 @@ https://future-architect.github.io/typescript-guide/<br>
 
 
 ## 参考書籍
-TypeScriptハンズオン<br>
-https://www.amazon.co.jp//dp/4798065331<br>
-<br>
 速習 TypeScript 第2版 速習シリーズ<br>
 https://www.amazon.co.jp/dp/B086JKVGPB/<br>
 <br>
