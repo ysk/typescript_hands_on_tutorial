@@ -5,7 +5,7 @@
 https://future-architect.github.io/typescript-guide/<br>
 
 
-## 書籍
+## 参考書籍
 TypeScriptハンズオン<br>
 https://www.amazon.co.jp//dp/4798065331<br>
 <br>
