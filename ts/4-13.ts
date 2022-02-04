@@ -62,6 +62,7 @@ namespace sampleApp {
                 default:
                     gd += 'th'
             }
+            console.log(this.name + '(' + this.school + 'School:'+ gd +' grade)')
         }
     }
 
