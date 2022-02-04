@@ -30,12 +30,12 @@ namespace sampleApp {
     }
 
     class Student implements Human {
-        name: string = 'no-name'
-        school?:School
-        grade?:number
+        name    : string = 'no-name'
+        school? :School
+        grade?  :number
 
         constructor(name:string, school?:School, grade?:number){
-            this.name = name
+            this.name   = name
             this.school = school
             this.grade  = grade
         }
@@ -46,10 +46,10 @@ namespace sampleApp {
         }
     }
 
-    const taro:Person = new Person('taro', 'taro@taro.com', 34)
+    const taro:Person    = new Person('taro', 'taro@taro.com', 34)
     const hanako:Student = new Student('hanako', School.high, 2)
     const sachiko:Person = new Person('sachiko')
-    const jiro:Student = new Student('jiro')
+    const jiro:Student   = new Student('jiro')
 
     const data:Human[] = [
         taro,
