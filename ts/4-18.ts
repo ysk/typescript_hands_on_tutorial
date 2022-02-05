@@ -29,6 +29,7 @@ namespace sampleApp {
         }
     }
 
+
     class Student implements Human {
         name    : string = 'no-name'
         school? :School
@@ -62,6 +63,7 @@ namespace sampleApp {
         item.print()
     }
 
+    //インターフェイスの継承
     interface People extends Human {
         birth:Date
     }
