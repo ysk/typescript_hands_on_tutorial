@@ -31,7 +31,9 @@ namespace myapp {
         }
     }
 }
+
 const mydata = new myapp.MyData()
+
 mydata.add('taro', 39)
 mydata.add('hanako', 28)
 mydata.add('sachiko', 17)
